@@ -65,7 +65,7 @@ st.markdown(
             margin-bottom: 20px;
         }
         .button {
-            background-color: #87CEFA; /* Light blue color code */
+            background-color: lightgray;
             color: white;
             padding: 10px 20px;
             text-decoration: none;
@@ -76,8 +76,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
-
 
 # Header
 st.title("Welcome to Our Prediction System")
@@ -90,8 +88,8 @@ st.markdown(
 )
 
 # Group members section
-st.header("Group Members")
-members = ["Afnan", "Hussan", "Marwah", "Rahaf", "Salma", "Waad", "Aeshah", "Atheer", "Sarah"]
+st.markdown('<h3 class="inner-header">Conducted by:</h3>', unsafe_allow_html=True)
+members = ["Afnan Alotaibi", "Hussan Alzain", "Marwah Barnawi", "Rahaf Saeed", "Salma Mohammed", "Waad Alharthi", "Aeshah Mater", "Atheer Rashed", "Sarah Moshabab"]
 for i in range(0, len(members), 2):
     if i + 1 < len(members):
         st.markdown(f'<p class="welcome">{members[i]}, {members[i+1]}</p>', unsafe_allow_html=True)
