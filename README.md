@@ -28,7 +28,8 @@ THE data highly unbalanced
 ![image](https://github.com/RahafAlshahrany/Employee-Churn-Analysis-Project/assets/143160674/b919cdd9-ec2e-4032-9575-8b783fa1ce41)
 ![image](https://github.com/RahafAlshahrany/Employee-Churn-Analysis-Project/assets/143160674/c5c927f9-4443-4ebe-a7e7-6178d8e1a6a5)
 ![image](https://github.com/RahafAlshahrany/Employee-Churn-Analysis-Project/assets/143160674/e96a086e-adc1-463f-afb4-1a3da7b40b3f)
-#this worke done by Great team 
+# this worke done by Great team 
+
 Group Members
 Afnan, Hussan
 Marwah, Rahaf
